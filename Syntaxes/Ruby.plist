@@ -46,7 +46,6 @@
 </string>
 	<key>fileTypes</key>
 	<array>
-		<string>rb</string>
 		<string>rbx</string>
 		<string>rjs</string>
 		<string>Rakefile</string>
