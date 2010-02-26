@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>require "$1"$0</string>
+	<string>File.join(${1:File.dirname(__FILE__), }"$2"$0)</string>
 	<key>name</key>
-	<string>require ".."</string>
+	<string>File.join("..")</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>req</string>
+	<string>File</string>
 	<key>uuid</key>
-	<string>97DE939B-D243-4D5C-B953-1C9090912E7C</string>
+	<string>3FC82D06-D821-4280-BF01-6E6C75E12065</string>
 </dict>
 </plist>
